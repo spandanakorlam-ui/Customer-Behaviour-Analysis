@@ -124,3 +124,4 @@ An interactive dashboard was built with the following visuals:
 5. Run `Queries_answered.sql` in MS SQL Server Management Studio
 6. Open the Power BI `.pbix` file to explore the dashboard
 
+![Dashboard Preview](Dashboard_preview_image.png)
