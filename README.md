@@ -118,7 +118,7 @@ An interactive dashboard was built with the following visuals:
 ## 🚀 How to Run
 
 1. Clone the repository
-2. Place `customer_shopping_behavior.csv` in the root directory
+2.Dataset is already included in the repository
 3. Open and run `sales_analysis.ipynb` in Jupyter Notebook
 4. Update the SQL Server connection string in the notebook (`server`, `database`)
 5. Run `Queries_answered.sql` in MS SQL Server Management Studio
